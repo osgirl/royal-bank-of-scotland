@@ -14,8 +14,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "52820"
 tags: Royal Bank of Scotland
-created: "2018-07-20"
-modified: "2018-07-20"
+created: "2018-07-21"
+modified: "2018-07-21"
 url: https://raw.githubusercontent.com/api-stack-providers/royal-bank-of-scotland/master/_listings/royal-bank-of-scotland/apis.md
 specificationVersion: "0.14"
 apis:
